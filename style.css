@@ -1,0 +1,213 @@
+.prancheta {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 2432px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.retangulo {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 122px;
+  background: transparent url("img/retangulo.svg") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.portflow {
+  top: 37px;
+  left: 140px;
+  width: 180px;
+  height: 49px;
+  opacity: 1;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  position: absolute;
+}
+
+.grp-8 {
+  float: right;
+  top: 50px;
+  left: 1228px;
+  width: 552px;
+  height: 30px;
+  opacity: 1;
+  position:absolute;
+}
+
+.laranja-corte {
+  top: 122px;
+  left: 0px;
+  width: 1920px;
+  height: 780px;
+  background: transparent url("img/laranja azul recorte.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position:absolute;
+}
+
+.rodape {
+  top: 2306px;
+  left: 0px;
+  width: 1920px;
+  height: 126px;
+  background: transparent url("img/Grupo 10.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.pao-de-queijo {
+  position: absolute;
+  top: 992px;
+  left: 554px;
+  width: 398px;
+  height: 398px;
+  background: transparent url("img/NoPath - Copia (22).png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.muance {
+  top: 992px;
+  left: 968px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (21).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.telas {
+  top: 992px;
+  left: 1382px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/mokup telas.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.tech{
+  top: 1407px;
+left: 140px;
+width: 398px;
+height: 398px;
+background: transparent url('img/NoPath - Copia (25).png') 0% 0% no-repeat padding-box;
+opacity: 1;
+position: absolute;
+}
+.caneca {
+  top: 1407px;
+  left: 554px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (27).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.notebook {
+  top: 1407px;
+  left: 968px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (29).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+
+.barrinha {
+  top: 1407px;
+  left: 1382px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (23).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.celular {
+  top: 1822px;
+  left: 140px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (31).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
+.cafe {
+  position: absolute;
+  top: 1822px;
+  left: 554px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (32).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.mesa {
+  position: absolute;
+  top: 1822px;
+  left: 968px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (34).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.fotos {
+  position: absolute;
+  top: 1822px;
+  left: 1382px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (33).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.navegacao {
+  font-family: 'Montserrat';
+  text-decoration: none;
+  color: grey;
+  padding: 15px;
+}
+
+.navegacao:hover{
+  font-family: 'Montserrat';
+  text-decoration: none;
+  color: black;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.texto-laranja {
+  color: white;
+  font-family: 'Montserrat';
+  font-weight: bold;
+  font-size: 38px;
+  text-align: left;
+  top: 423px;
+  left: 140px;
+  width: 1136px;
+  height: 96px;
+  opacity: 1;
+  position: absolute;
+}
+
+.fale-conosco {
+  color: white;
+  font-family: 'Montserrat';
+  top: 579px;
+  left: 140px;
+  width: 294px;
+  height: 43px;
+  opacity: 1;
+  position: absolute;
+}
+
+.erva {
+  top: 992px;
+  left: 140px;
+  width: 398px;
+  height: 398px;
+  background: transparent url('img/NoPath - Copia (20).png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  position: absolute;
+}
